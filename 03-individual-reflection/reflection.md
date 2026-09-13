@@ -65,9 +65,7 @@ Chọn 3-4 câu trong 6 câu dưới để viết thành đoạn 8-12 câu (khô
 **Reflection:**
 
 ```text
-
-
-
+tôi nhận thấy bản thân chưa đi làm thật sự chưa trải nghiệm đủ nhiều nên nhiều ngôn ngữ chuyên ngành tôi không hiểu. Các top 3 problems của các bạn có những cái khó mà thực hiện được. Mình nhận ra ý tưởng người mua khó quyết định sản phẩm phù hợp khi đọc quá nhiều review, ý tưởng đó khó khả thi vì vấn đề này đòi hỏi một lượng lớn dữ liệu và còn phải lọc những review ảo nữa nên cũng khó khả thi khi bắt đầu làm. Ban đầu khi đặt ra vấn đề nhóm cũng định bắt tay làm demo sản phẩm luôn nhưng sau khi góp ý lại thì nhóm đã đi tìm giải pháp tối ưu trước khi bắt tay vào làm. Sau khi thay đổi tôi nhận ra còn nhiều nguyên nhân có thể khiến problem khó có thể được giải quyết, những vấn đề này xuất phát từ mỗi người nên AI không thể xử lý được, đến chính con người chúng ta còn không biết tại sao. Tôi góp ý các ý kiến để các bạn có thể nhìn lại điểm yếu của problem, tôi tìm những tài liệu liên quan để đánh giá, tôi tìm những câu hỏi phản biện để có thể nhìn kỹ hơn về problem. Điều khó nhất khi tôi viết Problem Statement là baseline, vì lúc đó chưa có số liệu thật. Nếu làm lại từ đầu tôi sẽ thay đổi nhóm mạnh hơn ở việc nhìn nhanh vấn đề, vì lúc ban đầu khi nghe yêu cầu nhóm khá là hỗn loạn cũng chưa thực sự quen nhau nên vẫn còn dè dặt. Tôi tự thấy bản thân cần phải thay đổi nhiều hơn cả về kỹ năng và giao tiếp bởi vì khi mình không hiểu thì cũng khó nói chuyện được với mọi người.
 ```
 
 ---
@@ -81,5 +79,5 @@ Chọn 3-4 câu trong 6 câu dưới để viết thành đoạn 8-12 câu (khô
 - [x] [20đ] Nhóm có PS v0/v1 với metric + boundary rõ
 - [x] [15đ] Nhóm có so sánh Rule / Workflow / Agent (6.1, kèm 5 câu hỏi chốt)
 - [x] [10đ] Nhóm có Go / Not Yet / No-Go + lý do rõ (Decision: Go, kèm pilot + exit/rollback)
-- [ ] [10đ] Reflection này có vai trò thật + AI giúp/sai ở đâu + điều học được + nếu làm lại đổi gì — *còn thiếu mục 3 (đoạn reflection mở), cần tự viết*
-- [ ] [6đ] Tôi tự giải thích được mạch problem → workflow → metric → boundary → độ phù hợp AI — *tự xác nhận trước khi nộp, không tick thay bạn*
+- [x] [10đ] Reflection này có vai trò thật + AI giúp/sai ở đâu + điều học được + nếu làm lại đổi gì
+- [x] [6đ] Tôi tự giải thích được mạch problem → workflow → metric → boundary → độ phù hợp AI
